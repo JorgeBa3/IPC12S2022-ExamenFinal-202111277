@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ProyectoLand"
+		},
+		{
+			"path": "../../../../Lab IPC/ProyectoFinal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ProyectoFinal"
+	}
+}
